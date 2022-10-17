@@ -6,5 +6,3 @@ This is the git repository used for the game group project for Module CSD1401, b
 ## :boom: What is Boom Thief?
 *Brief on what the game is, and it's features*
 
-## :boom: Navigation to Files
-*Reports the purpose of each C File and who is maining it*
